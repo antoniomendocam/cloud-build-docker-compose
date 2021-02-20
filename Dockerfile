@@ -1,4 +1,4 @@
-M ubuntu:bionic
+FROM ubuntu:bionic
 
 ARG DOCKER_COMPOSE_VERSION
 
